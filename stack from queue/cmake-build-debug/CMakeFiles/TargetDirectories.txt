@@ -1,0 +1,3 @@
+D:/DSA/stack from queue/cmake-build-debug/CMakeFiles/stack_from_queue.dir
+D:/DSA/stack from queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DSA/stack from queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

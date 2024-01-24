@@ -1,0 +1,3 @@
+D:/DSA/stackViaArray/cmake-build-debug/CMakeFiles/stackViaArray.dir
+D:/DSA/stackViaArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DSA/stackViaArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
