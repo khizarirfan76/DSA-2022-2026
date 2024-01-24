@@ -1,3 +1,0 @@
-D:/DSA/stackUsingLinkedList/cmake-build-debug/CMakeFiles/stackUsingLinkedList.dir
-D:/DSA/stackUsingLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/DSA/stackUsingLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
